@@ -1,0 +1,1 @@
+NoteGiga do not collect any information about the device and user data. NoteGiga need READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE to read and write notes.
